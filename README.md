@@ -1,7 +1,7 @@
 ChatGPT & langchain example for node.js
 =======================================
 
-This repository contains containerized code from [this tutorial](https://langchainers.hashnode.dev/getting-started-with-langchainjs) modified to use the ChatGPT language model, trained by OpenAI, into a node.js project using [LangChain.js](https://github.com/hwchase17/langchainjs), an API for language models.
+This repository contains containerized code from [this tutorial](https://langchainers.hashnode.dev/getting-started-with-langchainjs) modified to use the ChatGPT language model, trained by OpenAI, in a node.js project using [LangChain.js](https://github.com/hwchase17/langchainjs), an API for language models. The prompt is also slightly modified from the original. 😉
 
 Getting started
 To use this code, you will need to have a OpenAI API key. If you don't have one yet, you can get one by signing up at https://platform.openai.com
